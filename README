@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3497
+
+This is a compiler plugin for Intel Fortran compiler.
+
+If you find any bug, please report it to xuhdev@gmail.com, or submit it on the
+issue tracker:
+https://bitbucket.org/xuhdev/compiler-ifort.vim/issues
+
+Repository:
+https://bitbucket.org/xuhdev/compiler-ifort.vim
+ 
